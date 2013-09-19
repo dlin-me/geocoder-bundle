@@ -1,0 +1,30 @@
+{
+    "name": "dlin/geocoder-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony Bundle for Geocoding",
+    "keywords": ["geocoding", "symfony"],
+    "license": "MIT",
+    "homepage": "http://dlin.me",
+
+    "authors": [
+        {
+            "name": "David Lin",
+            "email": "davidforest@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.8",
+        "dlin/geocoder": "*"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.0",
+        "symfony/finder": "2.3.*"
+    },
+    "autoload": {
+        "psr-0": { "Dlin\\Bundle\\GeocoderBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "Dlin/Bundle/GeocoderBundle"
+
+}
