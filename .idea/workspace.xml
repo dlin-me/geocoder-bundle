@@ -10,7 +10,7 @@
     <file path="/phpunit.xml.dist" changelist="781fb88d-d400-4500-acf9-fa984f199aa6" time="1379556354049" ignored="false" />
     <file path="/services.xml" changelist="781fb88d-d400-4500-acf9-fa984f199aa6" time="1379557787145" ignored="false" />
     <file path="/a.dummy" changelist="781fb88d-d400-4500-acf9-fa984f199aa6" time="1379558158190" ignored="false" />
-    <file path="/README.md" changelist="781fb88d-d400-4500-acf9-fa984f199aa6" time="1379558254601" ignored="false" />
+    <file path="/README.md" changelist="781fb88d-d400-4500-acf9-fa984f199aa6" time="1379559273006" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +50,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="687" selection-end="687" vertical-scroll-proportion="0.61916465">
+            <state line="30" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="-20.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="122" column="0" selection-start="2289" selection-end="2289" vertical-scroll-proportion="0.0">
+            <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -262,10 +262,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294753" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998455" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25179" sideWeight="0.6705247" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25179" sideWeight="0.67001545" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -437,16 +437,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="122" column="0" selection-start="2289" selection-end="2289" vertical-scroll-proportion="0.0">
+        <state line="30" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="-20.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="687" selection-end="687" vertical-scroll-proportion="0.61916465">
+        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

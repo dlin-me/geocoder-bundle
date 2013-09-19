@@ -1,4 +1,4 @@
-Dlin Symfony Snappy Bundle
+Dlin Symfony Geocoder Bundle
 =========
 ***
 Dlin Symfony Geocoder Bundle is wrapper bundle for  [dlin/geocoder]([https://github.com/dlin-me/geocoder) library :
