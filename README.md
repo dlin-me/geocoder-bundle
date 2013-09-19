@@ -1,6 +1,6 @@
 Dlin Symfony Geocoder Bundle
 =========
-***
+
 Dlin Symfony Geocoder Bundle is wrapper bundle for  [dlin/geocoder]([https://github.com/dlin-me/geocoder) library :
 
 
@@ -43,7 +43,7 @@ Enable the bundle in you AppKernel.php
         ...
     }
 
-***
+
 Configuration
 --------------
 
@@ -70,7 +70,7 @@ You can specify multiple geocoding providers. For example:
 For more information, please refere to the documentation of the  [dlin/geocoder]([https://github.com/dlin-me/geocoder) library
 
 
-***
+
 Usage
 --------------
 
